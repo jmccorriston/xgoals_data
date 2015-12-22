@@ -1,6 +1,6 @@
-]##This repository contains all play-by-play shot data from the 2007-08 season through the 2014-15 season. It is the data used to produce the statistics at www.fourthlineheroes.com.
+#This repository contains all play-by-play shot data from the 2007-08 season through the 2014-15 season. It is the data used to produce the statistics at www.fourthlineheroes.com.
 
-#Roadmap:
+##Roadmap:
 
 accuracies/ - The league average shot accuracies at each distance for different game states
 
